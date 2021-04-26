@@ -19,7 +19,6 @@ jobs:
             - "/go/pkg/mod"
       - run:
           name: Build
-          command: |
-            go build disinformationindex.org/loch/cmd/loch
+          command: make
       - store_artifacts:
-          path: ~/repo/loch
+          path: ~/repo/bin
