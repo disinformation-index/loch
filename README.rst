@@ -2,11 +2,12 @@
 Loch
 ====
 
+There's maybe something hidden in the loch.
+
 .. image:: misc/loch.jpg
-   :scale: 50 %
+   :scale: 25 %
    :alt: Loch
    :align: center
-
 
 Loch is a simple utility to encrypt and decrypt files
 using NaCL's secretbox
