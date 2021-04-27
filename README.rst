@@ -27,7 +27,7 @@ Decrypting a file:
 
 ::
     
-    $ loch --out source_file.decrypted decrypt source_file.decrypted
+    $ loch --out source_file.decrypted decrypt source_file.encrypted
 
 
 You can provide a text file containing the secret (instead of typing it out
